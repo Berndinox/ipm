@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 # IPM
 IOTA Peer Manager. 
 
